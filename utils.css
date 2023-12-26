@@ -1,0 +1,14 @@
+.text-center{
+    text-align: center;
+  }
+  .flex{
+    display:flex;
+   /* border: 100cqmax; */
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
